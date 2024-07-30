@@ -1,4 +1,4 @@
-**Call Center Analysis**
+# Call Center Analysis
 
 **Overview**
 
@@ -16,15 +16,15 @@ Results and Insights
 
 The Call Center Analysis Dashboard provides a detailed view of call center operations, highlighting areas for improvement and tracking performance metrics. It covers the period from January 1, 2021, to March 31, 2021, and includes the following key elements:
 
-Total Calls:  The total number of calls received.
+- Total Calls:  The total number of calls received.
 
-Average Speed of Answer: The average time taken to answer calls.
+- Average Speed of Answer: The average time taken to answer calls.
 
-Average Customer Satisfaction: A score reflecting customer satisfaction levels.
+- Average Customer Satisfaction: A score reflecting customer satisfaction levels.
 
-Issue Resolution: Analysis of resolved vs. unresolved issues.
+- Issue Resolution: Analysis of resolved vs. unresolved issues.
 
-Agent Performance: A breakdown of calls answered and performance metrics for each agent.
+- Agent Performance: A breakdown of calls answered and performance metrics for each agent.
 
 **Dashboard Features**
 
@@ -45,14 +45,17 @@ Agents Performance: A bar chart comparing the performance of each agent.
 The data used in this project is based on a simulated call center dataset, including details like call times, agent IDs, and customer feedback.
 
 **Results and Insights**
-The analysis revealed key insights:
 
-Peak call volumes occurred in March, with a total of 4.1K calls.
+- Peak call volumes occurred in March, with a total of 4.1K calls.
 
-The average speed of answer was 67.52 seconds, indicating room for improvement.
+- The average speed of answer was 67.52 seconds, indicating room for improvement.
 
-Customer satisfaction scored an average of 3.40 out of 5.
+- Customer satisfaction scored an average of 3.40 out of 5.
 
-Agents Greg and Jim handled the most calls, each accounting for over 12% of the total.
+- Agents Greg and Jim handled the most calls, each accounting for over 12% of the total.
+
+ **Contributing**
+
+ Thanks to PWC Virtual Internship Program for providing dataset and give this oppurtunity to create a beautiful dashboard with the help of Power BI tool.
 
 
